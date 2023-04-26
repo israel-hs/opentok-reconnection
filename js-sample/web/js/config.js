@@ -19,4 +19,4 @@ var token =
 
 // Set this to true and signals initiated while reconnecting to a session
 // will be sent when reconnected:
-var retrySignalOnReconnect = false;
+var retrySignalOnReconnect = true;
